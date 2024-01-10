@@ -1,5 +1,5 @@
 ﻿/*
-Copyright (C) 2023 tr1llkilla
+Copyright (C) 2024 tr1llkilla
     This program comes with ABSOLUTELY NO WARRANTY.
     This is free software, and you are welcome to redistribute it
     under legal conditions.
