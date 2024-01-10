@@ -8,7 +8,7 @@ tr1llkilla
 
 Author's note:
 This program is unfinished, but does the trick to get the job done manually
-Feel free to credit this work in any future registry forensic or data analysis works!
+Feel free to credit this work in any future projects!
 */
 
 #include <Windows.h>
